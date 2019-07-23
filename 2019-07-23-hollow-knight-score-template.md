@@ -17,7 +17,7 @@
 - [ ] Mantis Claw
 - [ ] Monarch Wings
 - [ ] Isma's Tear
-- [ ] Mothwing Cloak
+- [x] Mothwing Cloak
 - [ ] Shade Cloak
 
 ### Spells
@@ -26,15 +26,15 @@
 - [ ] Descending Dark
 - [ ] Howling Wraiths
 - [ ] Abyss Shriek
-- [ ] Vengeful Spirit
+- [x] Vengeful Spirit
 - [ ] Shade Soul
 
 ### Important items
 
 - [ ] Tram Pass
 - [ ] Lumafly Lantern
-- [ ] Map and Quill
-- [ ] Hunter's Journal
+- [x] Map and Quill
+- [x] Hunter's Journal
 
 ### Nail Arts
 
@@ -80,15 +80,15 @@
 
 ### Charms
 
-- [ ] Wayward Compass
-- [ ] Gathering Swarm
+- [x] Wayward Compass
+- [x] Gathering Swarm
 - [ ] Stalwart Shell
-- [ ] Soul Catcher
+- [x] Soul Catcher
 - [ ] Shaman Stone
 - [ ] Soul Eater
-- [ ] Dashmaster
+- [x] Dashmaster
 - [ ] Thorns of Agony
-- [ ] Fury of the Fallen
+- [x] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
