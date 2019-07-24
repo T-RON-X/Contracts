@@ -14,7 +14,7 @@
 
 - [ ] King's Brand
 - [ ] Crystal Heart
-- [ ] Mantis Claw
+- [x] Mantis Claw
 - [ ] Monarch Wings
 - [ ] Isma's Tear
 - [x] Mothwing Cloak
@@ -31,7 +31,7 @@
 
 ### Important items
 
-- [ ] Tram Pass
+- [x] Tram Pass
 - [ ] Lumafly Lantern
 - [x] Map and Quill
 - [x] Hunter's Journal
@@ -51,7 +51,7 @@
 
 ### Mask Shars / Vessel Fragments
 
-- [ ] Mask Shard 1
+- [x] Mask Shard 1
 - [ ] Mask Shard 2
 - [ ] Mask Shard 3
 - [ ] Mask Shard 4
@@ -67,7 +67,7 @@
 - [ ] Mask Shard 14
 - [ ] Mask Shard 15
 - [ ] Mask Shard 16
-- [ ] Vessel Fragment 1
+- [x] Vessel Fragment 1
 - [ ] Vessel Fragment 2
 - [ ] Vessel Fragment 3
 - [ ] Vessel Fragment 4
@@ -93,12 +93,12 @@
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
 - [ ] Spell Twister
-- [ ] Steady Body
+- [x] Steady Body
 - [ ] Heavy Blow
 - [ ] Quick Slash
 - [ ] Longnail
-- [ ] Mark of Pride
-- [ ] Baldur Shell
+- [x] Mark of Pride
+- [x] Baldur Shell
 - [ ] Flukenest
 - [ ] Defender's Crest
 - [ ] Glowing Womb
