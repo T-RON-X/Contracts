@@ -8,7 +8,7 @@
 
 - [ ] Lurien the Watcher
 - [ ] Monomon the Teacher
-- [ ] Herrah the Beast
+- [x] Herrah the Beast
 
 ### Key Items
 
@@ -24,7 +24,7 @@
 
 - [ ] Desolate Dive
 - [ ] Descending Dark
-- [ ] Howling Wraiths
+- [x] Howling Wraiths
 - [ ] Abyss Shriek
 - [x] Vengeful Spirit
 - [ ] Shade Soul
@@ -32,7 +32,7 @@
 ### Important items
 
 - [x] Tram Pass
-- [ ] Lumafly Lantern
+- [x] Lumafly Lantern
 - [x] Map and Quill
 - [x] Hunter's Journal
 
@@ -40,22 +40,22 @@
 
 - [ ] Great Slash
 - [ ] Dash Slash
-- [ ] Cyclone Slash
+- [x] Cyclone Slash
 
 ### Nail Upgrades
 
-- [ ] Old Nail -> Sharpened Nail
-- [ ] Sharpened Nail -> Channelled Nail
+- [x] Old Nail -> Sharpened Nail
+- [x] Sharpened Nail -> Channelled Nail
 - [ ] Channelled Nail -> Coiled Nail
 - [ ] Coiled Nail -> Pure Nail
 
 ### Mask Shars / Vessel Fragments
 
 - [x] Mask Shard 1
-- [ ] Mask Shard 2
-- [ ] Mask Shard 3
-- [ ] Mask Shard 4
-- [ ] Mask Shard 5
+- [x] Mask Shard 2
+- [x] Mask Shard 3
+- [x] Mask Shard 4
+- [x] Mask Shard 5
 - [ ] Mask Shard 6
 - [ ] Mask Shard 7
 - [ ] Mask Shard 8
@@ -68,8 +68,8 @@
 - [ ] Mask Shard 15
 - [ ] Mask Shard 16
 - [x] Vessel Fragment 1
-- [ ] Vessel Fragment 2
-- [ ] Vessel Fragment 3
+- [x] Vessel Fragment 2
+- [x] Vessel Fragment 3
 - [ ] Vessel Fragment 4
 - [ ] Vessel Fragment 5
 - [ ] Vessel Fragment 6
@@ -87,7 +87,7 @@
 - [ ] Shaman Stone
 - [ ] Soul Eater
 - [x] Dashmaster
-- [ ] Thorns of Agony
+- [x] Thorns of Agony
 - [x] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
@@ -106,13 +106,14 @@
 - [ ] Deep Focus
 - [ ] Lifeblood Heart
 - [ ] Lifeblood Core
-- [ ] Joni's Blessing
+- [x] Joni's Blessing
 - [ ] Grubsong
 - [ ] Grubberfly's Elegy
 - [ ] Hiveblood
-- [ ] Spore Shroom
+- [x] Spore Shroom
 - [ ] Sharp Shadow
 - [ ] Shape of Unn
 - [ ] Nailmaster's Glory
 - [ ] Dream Wielder
 - [ ] Kingsoul / Void Heart
+- [x] Dream Shield
