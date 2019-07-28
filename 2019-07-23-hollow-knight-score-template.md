@@ -13,7 +13,7 @@
 ### Key Items
 
 - [ ] King's Brand
-- [ ] Crystal Heart
+- [x] Crystal Heart
 - [x] Mantis Claw
 - [ ] Monarch Wings
 - [ ] Isma's Tear
@@ -22,7 +22,7 @@
 
 ### Spells
 
-- [ ] Desolate Dive
+- [x] Desolate Dive
 - [ ] Descending Dark
 - [x] Howling Wraiths
 - [ ] Abyss Shriek
@@ -39,7 +39,7 @@
 ### Nail Arts
 
 - [ ] Great Slash
-- [ ] Dash Slash
+- [x] Dash Slash
 - [x] Cyclone Slash
 
 ### Nail Upgrades
@@ -56,10 +56,10 @@
 - [x] Mask Shard 3
 - [x] Mask Shard 4
 - [x] Mask Shard 5
-- [ ] Mask Shard 6
-- [ ] Mask Shard 7
-- [ ] Mask Shard 8
-- [ ] Mask Shard 9
+- [x] Mask Shard 6
+- [x] Mask Shard 7
+- [x] Mask Shard 8
+- [x] Mask Shard 9
 - [ ] Mask Shard 10
 - [ ] Mask Shard 11
 - [ ] Mask Shard 12
@@ -70,8 +70,8 @@
 - [x] Vessel Fragment 1
 - [x] Vessel Fragment 2
 - [x] Vessel Fragment 3
-- [ ] Vessel Fragment 4
-- [ ] Vessel Fragment 5
+- [x] Vessel Fragment 4
+- [x] Vessel Fragment 5
 - [ ] Vessel Fragment 6
 - [ ] Vessel Fragment 7
 - [ ] Vessel Fragment 8
@@ -82,9 +82,9 @@
 
 - [x] Wayward Compass
 - [x] Gathering Swarm
-- [ ] Stalwart Shell
+- [x] Stalwart Shell
 - [x] Soul Catcher
-- [ ] Shaman Stone
+- [x] Shaman Stone
 - [ ] Soul Eater
 - [x] Dashmaster
 - [x] Thorns of Agony
@@ -92,22 +92,22 @@
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
-- [ ] Spell Twister
+- [x] Spell Twister
 - [x] Steady Body
-- [ ] Heavy Blow
-- [ ] Quick Slash
-- [ ] Longnail
+- [x] Heavy Blow
+- [x] Quick Slash
+- [x] Longnail
 - [x] Mark of Pride
 - [x] Baldur Shell
 - [ ] Flukenest
-- [ ] Defender's Crest
+- [x] Defender's Crest
 - [ ] Glowing Womb
 - [ ] Quick Focus
 - [ ] Deep Focus
-- [ ] Lifeblood Heart
+- [x] Lifeblood Heart
 - [ ] Lifeblood Core
 - [x] Joni's Blessing
-- [ ] Grubsong
+- [x] Grubsong
 - [ ] Grubberfly's Elegy
 - [ ] Hiveblood
 - [x] Spore Shroom
